@@ -2,7 +2,7 @@ This repo contains code for our paper 'Visual Learning of Arithmetic Operations'
 
 The paper can be found at: http://www.cs.huji.ac.il/~peleg/papers/AAAI16-Arithmetic.pdf
 
-The code depends on keras, numpy and PIL. The visualization in test.py requires matplotlib.
+The code depends on keras, h5py, numpy and PIL. The visualization in test.py requires matplotlib.
 
 The code can be run without a GPU (although it helps). The network takes about 30 minutes to train on my laptop's CPU. 
 
