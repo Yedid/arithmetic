@@ -10,11 +10,11 @@ Thr current configuration is for visual addition of 7 digit numbers. But all the
 
 Running the code  
 
-# Prepare the dataset  
+Prepare the dataset  
 $ python get_data.py  
-# Train the network  
+Train the network  
 $ python train.py  
-# Show the network in action  
+Show the network in action  
 $ python test.py  
 
 Citation
